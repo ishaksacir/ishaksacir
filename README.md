@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**ishaksacir/ishaksacir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ishak Šaćirbegović 👋
 
-Here are some ideas to get you started:
+🎓 **Data Science & Artificial Intelligence student** @ University of Sarajevo (ETF)  
+💻 **Junior Web Developer** with real-world project experience  
+🇦🇹 Former **Software Engineering & Management** student @ TU Graz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+- **Frontend:** JavaScript, HTML, CSS, React  
+- **Backend / Data:** SQL (MySQL, PostgreSQL), Python  
+- **Tools:** Git & GitHub, Linux, Docker (basic), DBeaver  
+- **Design:** Figma, CorelDRAW
+
+---
+
+## Featured Projects
+- **FuelFIT** – Fitness & Nutrition Web App (Frontend)  
+- **Dalga Design Webshop** – E-commerce website for a local clothing brand  
+- **School Website (PI Bihać)** – Team-built institutional website  
+- **Rafting Agency Websites:**  
+  - https://www.unaadventure.com  
+  - https://www.unapiratesrafting.com  
+
+---
+
+## Contact
+- **LinkedIn:** https://www.linkedin.com/in/ishaksacirbey  
+- **GitHub:** https://github.com/ishaksacirbey  
+
+
